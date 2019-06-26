@@ -27,7 +27,7 @@ SECRET_KEY = 'f6hzrg%0ihg&-q2z=@)$i--v!7dzj(c%(qu^(vqq2q@j%_cd-9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'dozie.come.ng', '116.203.85.174']
+ALLOWED_HOSTS = ['127.0.0.1', 'dozie.com.ng', '116.203.85.174']
 
 
 # Application definition
