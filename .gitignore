@@ -5,6 +5,7 @@
 
 /venv
 /d_venv
+/env
 
 /dozie/__pycache__
 
